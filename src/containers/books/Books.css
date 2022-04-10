@@ -1,0 +1,11 @@
+.description {
+    max-width:20em;
+    word-wrap:break-word;
+    text-align: justify;
+    font-size: 13px;
+}
+
+.book-cover {
+    max-height: 250px;
+    min-height: 250px;
+}
