@@ -3,7 +3,6 @@ import Navbar from './Navbar';
 import Login from './containers/login/Login';
 import Books from './containers/books/Books';
 import Home from './containers/home/Home';
-import Users from './containers/users/Users';
 import Register from './containers/register/Register';
 import Logout from './containers/logout/Logout';
 import { Route,  BrowserRouter, Routes } from 'react-router-dom';
